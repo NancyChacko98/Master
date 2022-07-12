@@ -2,7 +2,7 @@ Hi Jino,
 
 This mail is regarding my asset access issue.I was previously allocated in Hitachi -Infra Mgmt-ICC account and i used TCS thinclient desktop till now.
 .But now i got released from the project and got allocated to different project(SW_ORACLE 11i_MFG_NPV_OFF) where i would need to access client vdi directly 
-which is not possible through thinclient right now.
+also i would need camera for the face to face client interview which is not possible through thinclient right now.
 
 Kindly approve above request for new asset(TCS Lap)
 
